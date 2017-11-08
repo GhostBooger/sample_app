@@ -1,0 +1,15 @@
+one:
+  follower: whei
+  followed: lana
+
+two:
+  follower: whei
+  followed: malory
+
+three:
+  follower: lana
+  followed: whei
+
+four:
+  follower: archer
+  followed: whei
